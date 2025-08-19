@@ -1,4 +1,4 @@
-<h1 align="center">🔍 Caça Bugs 🐞</h1>
+# <h1 align="center">🔍 Caça Bugs 🐞</h1>
 
 Repositorio dedicado para a realização de atividades propostas no programa de bolsas compass.uol
 
