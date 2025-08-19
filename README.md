@@ -8,4 +8,4 @@ A partir do conhecimento adquirido em relação a Git, você deverá junto à su
    JOÃO VITOR MOREIRA LEMOS\
    VICTOR LOHAN SOUSA DE ASSIS\
    KLEBER LUCCAS PIRES TORRES\
-    RAFAEL OLIVA SOARES\
+   RAFAEL OLIVA SOARES
