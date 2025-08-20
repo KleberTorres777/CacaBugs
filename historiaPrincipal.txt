@@ -1,3 +1,3 @@
 Aplicação Prática dos Conceitos de Git e GitHub pelo Squad:
 A história apresenta um resumo das etapas realizadas pelos membros do squad para aplicar os conceitos aprendidos no curso de Git e GitHub, desde a instalação da ferramenta até os processos de push e merge. 
-Durante esse processo, o grupo também praticou a criação e o gerenciamento de branches, e a aplicação das boas práticas de versionamento, como o GitFlow e o GitConventios.
+Durante esse processo, o grupo também praticou a criação e o gerenciamento de branches, e a aplicação das boas práticas de versionamento, como o GitFlow e o Conventional Commits.
