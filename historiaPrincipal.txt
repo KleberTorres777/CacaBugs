@@ -1,1 +1,23 @@
-Lorem ipsum
+Utilizando um notebook Asus com processador Intel Core i7-3537U, 8 GB de RAM e sistema operacional Ubuntu 24.04, utilizei o terminal para realizar a instalação via apt-get.
+
+Em seguida, fiz a configuração inicial com os comandos:
+
+git config --global user.name "John Doe"
+git config --global user.email "johndoe@example.com"
+
+
+Depois, gerei uma chave SSH com o comando:
+
+ssh-keygen -t ed25519 -C "meuemail@example.com"
+
+
+Adicionei a chave à minha conta no GitHub e, por fim, no terminal, clonei o repositório com o comando:
+
+git clone <url-do-repositorio>
+
+
+Com o repositório clonado, utilizei o comando abaixo para criar uma nova branch:
+
+git checkout -b feature/rafael
+
+Essa nomenclatura segue as boas práticas do GitFlow, em que o prefixo feature/ indica que a branch é destinada ao desenvolvimento de uma funcionalidade específica
