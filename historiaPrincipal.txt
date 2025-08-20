@@ -1,3 +1,7 @@
 - Evolução do Produto
-Com o feedback de usuários, a AgroConecta implementou funcionalidades como rastreamento de entregas, pagamentos digitais e avaliações de produtos.
-A equipe também criou parcerias com cooperativas para facilitar a logística.
+Com o feedback dos usuários, AgroConecta expandiu seus serviços, priorizando melhorias que atendessem às necessidades do campo e do mercado.
+Entre as principais adições estão o rastreamento de entregas; integração a sistemas de pagamento digitais, ampliando a praticidade e a 
+inclusão financeira dos agricultores e o sistema de avaliações de produtos, permitindo maior confiança nas transações e fortalecendo a 
+reputação de fornecedores.
+Para garantir a qualidade e confiabilidade dessas funcionalidades, foi necessário aplicar testes de qualidade, como testes automatizados
+de integração, validação de usabilidade, validação de regras de negócio e monitoramento contínuo. 
