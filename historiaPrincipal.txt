@@ -3,25 +3,6 @@ A história apresenta um resumo das etapas realizadas pelos membros do squad par
 Durante esse processo, o grupo também praticou a criação e o gerenciamento de branches, e a aplicação das boas práticas de versionamento, como o GitFlow e o Conventional Commits.
 
 =================================================================//==========================================//===============================================//============================================================
-[Isabela Regina] - Ideia inicial e primeiros desafios
-
-Inicialmente, a ideia foi conectar esses pequenos agricultores aos clientes finais, ou seja, consumidores, por meio de uma plataforma digital, no entanto, a AgroConecta enfrentou inúmeros desafios relacionados
-à logística, convicção e comunicação com cultivadores, visto que muitos deles não tinham acesso à internet e precisavam realizar o treinamento básico para usar a plataforma. 
-Foram então realizados diversos treinamentos, mentorias personalizadas com o foco em um perfil muito específico: profissionais agricultores com conhecimento mínimo em relação à informática básica.
-Outro grande desafio foi conquistar a confiança de investidores, pois como a pequena startup acabava de nascer, ainda foi preciso ganhar a confiança do mercado e futuros clientes. Além disso, muitos clientes não adeptos
-à tecnologia acreditavam que essa iniciativa não era muito convincente, e por muiotas vezes se permitiam pensar que o uso de tecnologias era algo superficial e incapaz de impactar positivamente seus impreendimentos.
-
-=================================================================//==========================================//===============================================//============================================================
-
-[Rafael] - Evolução do Produto
-Com o feedback dos usuários, AgroConecta expandiu seus serviços, priorizando melhorias que atendessem às necessidades do campo e do mercado.
-Entre as principais adições estão o rastreamento de entregas; integração a sistemas de pagamento digitais, ampliando a praticidade e a 
-inclusão financeira dos agricultores e o sistema de avaliações de produtos, permitindo maior confiança nas transações e fortalecendo a 
-reputação de fornecedores.
-Para garantir a qualidade e confiabilidade dessas funcionalidades, foi necessário aplicar testes de qualidade, como testes automatizados
-de integração, validação de usabilidade, validação de regras de negócio e monitoramento contínuo. 
-
-=================================================================//==========================================//===============================================//============================================================
 
 [João] - Introdução
 No Brasil, embora o agronegócio seja uma das principais forças econômicas, muitos pequenos agricultores enfrentam 
@@ -31,6 +12,16 @@ Percebendo esse cenário, um grupo de jovens empreendedores decidiu criar uma so
 a AgroConecta, uma plataforma digital que conecta produtores rurais a clientes em grandes centros urbanos, permitindo a venda 
 de alimentos frescos, orgânicos e de origem confiável. O projeto nasceu com o propósito de aumentar a renda dos 
 agricultores, reduzir intermediários e incentivar um consumo mais consciente e sustentável.
+=================================================================//==========================================//===============================================//============================================================
+
+[Isabela Regina] - Ideia inicial e primeiros desafios
+
+Inicialmente, a ideia foi conectar esses pequenos agricultores aos clientes finais, ou seja, consumidores, por meio de uma plataforma digital, no entanto, a AgroConecta enfrentou inúmeros desafios relacionados
+à logística, convicção e comunicação com cultivadores, visto que muitos deles não tinham acesso à internet e precisavam realizar o treinamento básico para usar a plataforma. 
+Foram então realizados diversos treinamentos, mentorias personalizadas com o foco em um perfil muito específico: profissionais agricultores com conhecimento mínimo em relação à informática básica.
+Outro grande desafio foi conquistar a confiança de investidores, pois como a pequena startup acabava de nascer, ainda foi preciso ganhar a confiança do mercado e futuros clientes. Além disso, muitos clientes não adeptos
+à tecnologia acreditavam que essa iniciativa não era muito convincente, e por muiotas vezes se permitiam pensar que o uso de tecnologias era algo superficial e incapaz de impactar positivamente seus impreendimentos.
+
 =================================================================//==========================================//===============================================//============================================================
 
 [Kleber] - Crescimento e primeiros clientes
