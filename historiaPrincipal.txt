@@ -23,6 +23,26 @@ de integração, validação de usabilidade, validação de regras de negócio e
 
 =================================================================//==========================================//===============================================//============================================================
 
+[João] - Introdução
+No Brasil, embora o agronegócio seja uma das principais forças econômicas, muitos pequenos agricultores enfrentam 
+dificuldades para comercializar seus produtos diretamente ao consumidor final. A falta de canais de venda eficientes, a dependência 
+de atravessadores e as limitações no acesso à tecnologia acabam reduzindo seus ganhos e dificultando a valorização da produção local.
+Percebendo esse cenário, um grupo de jovens empreendedores decidiu criar uma solução capaz de aproximar o campo da cidade. Assim surgiu 
+a AgroConecta, uma plataforma digital que conecta produtores rurais a clientes em grandes centros urbanos, permitindo a venda 
+de alimentos frescos, orgânicos e de origem confiável. O projeto nasceu com o propósito de aumentar a renda dos 
+agricultores, reduzir intermediários e incentivar um consumo mais consciente e sustentável.
+=================================================================//==========================================//===============================================//============================================================
+
+[Rafael] - Evolução do Produto
+Com o feedback dos usuários, AgroConecta expandiu seus serviços, priorizando melhorias que atendessem às necessidades do campo e do mercado.
+Entre as principais adições estão o rastreamento de entregas; integração a sistemas de pagamento digitais, ampliando a praticidade e a 
+inclusão financeira dos agricultores e o sistema de avaliações de produtos, permitindo maior confiança nas transações e fortalecendo a 
+reputação de fornecedores.
+Para garantir a qualidade e confiabilidade dessas funcionalidades, foi necessário aplicar testes de qualidade, como testes automatizados
+de integração, validação de usabilidade, validação de regras de negócio e monitoramento contínuo. 
+
+=================================================================//==========================================//===============================================//============================================================
+
 [Victor Lohan] - Conclusão e futuro
 
 A AgroConecta consolidou-se com sucesso como um facilitador do comércio local e sustentável, provando ser um poderoso agente de transformação ao fortalecer a agricultura familiar. 
