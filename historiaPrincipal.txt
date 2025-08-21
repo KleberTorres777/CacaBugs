@@ -1,3 +1,13 @@
 Aplicação Prática dos Conceitos de Git e GitHub pelo Squad:
 A história apresenta um resumo das etapas realizadas pelos membros do squad para aplicar os conceitos aprendidos no curso de Git e GitHub, desde a instalação da ferramenta até os processos de push e merge. 
 Durante esse processo, o grupo também praticou a criação e o gerenciamento de branches, e a aplicação das boas práticas de versionamento, como o GitFlow e o Conventional Commits.
+
+=================================================================//==========================================//===============================================//============================================================
+
+[Victor Lohan] - Conclusão e futuro
+
+A AgroConecta consolidou-se com sucesso como um facilitador do comércio local e sustentável, provando ser um poderoso agente de transformação ao fortalecer a agricultura familiar. 
+Olhando para o futuro, a equipe sonha em expandir a operação para outros estados, com foco inicial nas regiões Sudeste e Sul, implementando centros de distribuição regionais para otimizar a logística. 
+A plataforma também evoluirá, com a introdução de um portal para atender empresas (B2B), a criação de clubes de assinatura e o fornecimento de dados para auxiliar os produtores. 
+Além da tecnologia, o impacto social será aprofundado por meio de parcerias para capacitação e inclusão financeira dos agricultores. 
+O objetivo final é transformar a AgroConecta na principal referência de consumo consciente no Brasil, gerando prosperidade no campo e levando alimentos com propósito à mesa de milhões de brasileiros.
